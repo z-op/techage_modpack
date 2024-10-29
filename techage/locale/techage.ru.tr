@@ -818,7 +818,7 @@ TA Lamp Holder White=TA Белый держатель для лампы
 ### laser.lua ###
 
 Laser beam error!=Ошибка лазерного луча!
-TA4 Laser Beam Emitter=TA4 Излучатель лазера
+TA4 Laser Beam Emitter=TA4 Лазерный излучатель
 TA4 Laser Beam Receiver=TA4 Приемник лазерного луча
 Valid destination positions:=Правильные места назначения:
 to=в
